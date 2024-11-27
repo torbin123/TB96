@@ -1,4 +1,4 @@
-import cv2
+import cv3
 
 # 初始化摄像头
 cap = cv2.VideoCapture(0)
